@@ -1,5 +1,14 @@
+#(C) 2015 Commando Interactive. All Rights Reserved.
+#This is Alpha software, not all the time will it work. Do not expect bugfixes
+#right away, as Commando Interactive is only one person, I Can-o-awesome.
+#I cannot guarantee that there will be perfect performance.
+
 
 from direct.showbase.ShowBase import ShowBase
+
+
+
+print("This app is (C) Commando Interactive. All Rights Reserved")
  
 class MyApp(ShowBase):
  
